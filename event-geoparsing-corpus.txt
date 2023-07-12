@@ -2416,7 +2416,7 @@ ini/DT/O/O
 mengakibatkan/VBT/O/O
 satu/CDP/B-ARG/DeathVictim-Arg
 orang/NN/I-ARG/DeathVictim-Arg
-meninggal/I-ARG/DeathVictim-Arg
+meninggal/VBI/I-ARG/DeathVictim-Arg
 dunia/VBI/I-ARG/DeathVictim-Arg
 yakni/VBT/O/O
 ,/,/O/O
@@ -4259,7 +4259,7 @@ warga/NN/O/O
 Jalan/NN/B-ARG/Street-Arg
 Bunga/NN/I-ARG/Street-Arg
 Seroja/NNP/I-ARG/Street-Arg
-RT13 RT05 RT05/I-ARG/Street-Arg
+RT13 RT05 RT05/NN/I-ARG/Street-Arg
 Cipete/NNP/B-LOC/Place-Arg/(-6.272776143581459, 106.80500427136693)/4
 Selatan/NNP/I-PLOC
 ,/,/O/O
@@ -4678,7 +4678,7 @@ Meluap/NNP/B-EVE/FLOOD-EVENT
 3/CDP/B-ARG/AffectedVillage-Arg
 Desa/NN/I-ARG/AffectedVillage-Arg
 di/IN/O/O
-Purworejo/NNP/B-PLOC/(-7.727362345504708, 109.94966617165039)/2
+Purworejo/NNP/B-PLOC/O/(-7.727362345504708, 109.94966617165039)/2
 Masih/MD/O/O
 Tergenang/NNP/B-EVE/FLOOD-EVENT
 -/-/O/O
@@ -6426,7 +6426,7 @@ Ludes/NNP/O/O
 ,/,/O/O
 Ratusan/CDC/B-ARG/Evacuee-Arg
 Warga/NN/B-ARG/Evacuee-Arg
-Tambora/NN/B-LOC/(-6.148697714135449, 106.80379414670814)/3
+Tambora/NN/B-LOC/O/(-6.148697714135449, 106.80379414670814)/3
 Tinggal/VBI/O/O
 di/IN/O/O
 Tenda/NNP/O/O
@@ -6444,7 +6444,7 @@ Tambora/NNP/B-LOC/Place-Arg/(-7.178838750656141, 112.3250733826767)/3
 Jembatan/NN/B-LOC/Place-Arg/(-6.151889764112349, 106.79769790956108)/4
 Besi/NNP/I-PLOC/Place-Arg
 ,/,/O/O
-Jakarta/NNP/B-PLOC/-6.164985848661911, 106.77615088548771)/2
+Jakarta/NNP/B-PLOC/O/-6.164985848661911, 106.77615088548771)/2
 Barat/NN/I-PLOC/Place-Arg
 ludes/JJ/O/O
 dilalap/VBT/B-EVE/FIRE-EVENT
@@ -6742,7 +6742,7 @@ dan/CC/O/O
 Kelurahan/NNP/B-LOC/Place-Arg/(-6.243192363183381, 106.8111410367786)/4
 Petogogan/NNP/I-PLOC/Place-Arg
 ,/,/O/O
-Jaksel/NNP/B-PLOC/(-6.256679776683385, 106.81568629190677)/2
+Jaksel/NNP/B-PLOC/O/(-6.256679776683385, 106.81568629190677)/2
 dilaporkan/VBT/O/O
 setinggi/VBT/O/O
 40/CD/B-ARG/Height-Arg
@@ -9091,7 +9091,7 @@ Singapura/NNP/B-PLOC/Place-Arg/(1.3587022130057769, 103.84297463137905)/0
 Singapura/NNP/B-PLOC/Published-Arg/(1.3587022130057769, 103.84297463137905)/0
 -/NNP/O/O
 Kecelakaan/NN/B-EVE/ACCIDENT-EVENT
-lalu/I-EVE/ACCIDENT-EVENT
+lalu/JJ/I-EVE/ACCIDENT-EVENT
 lintas/JJ/I-EVE/ACCIDENT-EVENT
 karena/IN/O/O
 pengemudi/NN/O/O
@@ -9561,7 +9561,7 @@ Napitupulu/NNP/O/O
 ,/,/O/O
 saat/SC/O/O
 jumpa/VBT/B-EVE/MEETING-EVENT
-pers/NN/O/I-EVE/MEETING-EVENT
+pers/NN/I-EVE/MEETING-EVENT
 di/IN/O/O
 Restoran/NN/B-ARG/Facility-Arg
 Bundo/NNP/I-ARG/Facility-Arg
@@ -10215,7 +10215,7 @@ beruntun/VBI/I-EVE/ACCIDENT-EVENT
 terjadi/VBI/O/O
 di/IN/O/O
 tol/NN/B-ARG/Street-Arg
-dalam/I-ARG/Street-Arg
+dalam/IN/I-ARG/Street-Arg
 kota/IN/I-ARG/Street-Arg
 Jakarta/NNP/B-PLOC/Place-Arg/(-6.197602429787846, 106.83139222722116)/1
 
@@ -14095,7 +14095,7 @@ Magetan/NNP/I-PLOC/Place-Arg
 
 Ketinggian/NN/B-ARG/Height-Arg
 air/NN/I-ARG/Height-Arg
-mencapai/I-ARG/Height-Arg
+mencapai/VB/I-ARG/Height-Arg
 125/CD/I-ARG/Height-Arg
 cm/NND/I-ARG/Height-Arg
 serta/CC/O/O
@@ -16204,7 +16204,7 @@ kepala/NN/B-ORG/O
 sekolah/NN/I-ORG/O
 taman/NN/I-ORG/O
 kanak/NNP/I-ORG/O
--/-/I-ORG/o
+-/-/I-ORG/O
 kanak/NN/I-ORG/O
 asal/NN/O/O
 Kabupaten/NNP/B-PLOC/Place-Arg/(-8.100725299843663, 111.89695787221875)/2
